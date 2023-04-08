@@ -3,15 +3,15 @@ NationalITcenter
 <!DOCTYPE html>
 <html>
 <body style="background-color:aquamarine;">
- <center>
+    <center>
     <font color="blue">
      <h1>National IT Center</h1>
      <h2> Final Examination - January 2013 </h2>
      <h3> National Cetificate of Information and Communication Technology </h3>
- <center><ul></center>
- <center><li> <b>Theory Paper</b> </li></center>
- <center></ul></center> <br> 
-    </font>
+       <ul>
+         <li> <b>Theory Paper</b> </li>
+       </ul><br> 
+     </font>
  <table border="4" cellspacing="2" align="center" bgcolor="yellow">
  <tr>
    <th> Paper </th>
